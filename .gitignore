@@ -1,0 +1,35 @@
+# Dependencies
+/vendor/
+
+# IDE
+/.idea/
+/.vscode/
+*.swp
+*.swo
+*~
+
+# PHPUnit
+.phpunit.cache/
+coverage/
+phpunit.xml
+
+# PHPMD
+phpmd-report.html
+phpmd-report.xml
+.phpmd.cache
+
+# Rector
+/var/cache/rector/
+
+# Deptrac
+.deptrac.cache
+
+# Composer
+composer.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
